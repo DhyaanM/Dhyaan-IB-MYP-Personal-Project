@@ -2,7 +2,7 @@
 title: "My TD4 CPU"
 author: "Dhyaan Manganahalli"
 description: "I am building a working physical 4-bit computer based on the open-source TD4 architecture for my IB MYP 5 Personal Project. I am using an open-source schematic layout, while customising the silkscreen with my own logo and manually soldering the components such as the 74-series TTL logic ICs. The final product will be fully programmed to calculate mathematical sequences."
-created_at: "2026-07-22"
+created_at: "2026-04-26"
 ---
 
 # April 26: Started learning the concepts of logic gates and laws
@@ -16,7 +16,7 @@ I had started this project before applying to Forge, hence the actual date I had
 
 # April 29: Started learning the concept of boolean functions and algebra
 
-Building on my knowledge that had aqcuired about logic gates and laws, I decided to explore the concept of boolean functions further by learning about how any function could be represented using NAND operations. Furthermore, I also expanded my learning about boolean algebra and how to compare and simplify an expression in its Disjunctive Normal Form 'DNF'.
+Building on my knowledge that had acquired about logic gates and laws, I decided to explore the concept of boolean functions further by learning about how any function could be represented using NAND operations. Furthermore, I also expanded my learning about boolean algebra and how to compare and simplify an expression in its Disjunctive Normal Form 'DNF'.
 
 ![notebook notes](images/IMG_5281.png)
 ![notebook notes](images/IMG_5282.png)
