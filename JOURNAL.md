@@ -7,7 +7,7 @@ created_at: "2026-07-22"
 
 # April 26: Started learning the concepts of logic gates
 
-I had started this project before applying to Forge, hence the date. Before starting to work on this project, I felt it was essential to grasp the fundamentals of hardware. I learnt about what logic gates are and how they function. I also explored the concept of logic laws such as commutative, distributive, associative, and De Morgan laws.
+I had started this project before applying to Forge, hence the actual date I had started this project was April 26, 2026. Before starting to work on this project, I felt it was essential to grasp the fundamentals of hardware. Thus, I learnt about what logic gates are and how they function. I also explored the concept of logic laws such as commutative, distributive, associative, and De Morgan laws.
 
 ![notebook notes](images/IMG_5279.png)
 ![notebook notes](images/IMG_5280.png)
